@@ -1,4 +1,4 @@
-![mai](https://github.com/user-attachments/assets/735b098c-233e-4531-9372-7f849b4b4a4a)
+![mai-banner](https://github.com/user-attachments/assets/d6ba92a9-e237-4396-81d5-7cfcffcd94af)
 
 📚 Information Technology Student
 
