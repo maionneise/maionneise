@@ -1,3 +1,7 @@
+<h3 align="center" style="color: purple;">Hi, I'm Mai! ⭐</h3>
+<h3 align="center" style="color: purple;">👩🏻‍💻 I am an Information Technology Student 👩🏻‍💻</h3>
+
+
 ## Hi, I'm Mai ! ⭐
 
 📚 Information Technology Student
