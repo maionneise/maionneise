@@ -1,6 +1,7 @@
 ## Hi, I'm Mai ! ⭐
 
 📚 Information Technology Student
+![mai](https://github.com/user-attachments/assets/03c402d3-a2a4-42cf-a938-a40adf4fdb03)
 
 
 
